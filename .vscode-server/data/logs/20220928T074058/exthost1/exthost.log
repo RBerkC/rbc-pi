@@ -1,0 +1,21 @@
+[2022-09-28 07:41:16.356] [exthost] [info] Extension host with pid 1085 started
+[2022-09-28 07:41:16.367] [exthost] [error] Error: EEXIST: file already exists, open '/home/rbc-pi/.vscode-server/data/User/workspaceStorage/d3d2cb05fc09f903466b81e23e6882fc/vscode.lock'
+[2022-09-28 07:41:16.387] [exthost] [info] Lock '/home/rbc-pi/.vscode-server/data/User/workspaceStorage/d3d2cb05fc09f903466b81e23e6882fc/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-09-28 07:41:16.401] [exthost] [info] Lock '/home/rbc-pi/.vscode-server/data/User/workspaceStorage/d3d2cb05fc09f903466b81e23e6882fc/vscode.lock': The pid 2432 appears to be gone.
+[2022-09-28 07:41:16.401] [exthost] [info] Lock '/home/rbc-pi/.vscode-server/data/User/workspaceStorage/d3d2cb05fc09f903466b81e23e6882fc/vscode.lock': Deleting a stale lock.
+[2022-09-28 07:41:16.417] [exthost] [info] Lock '/home/rbc-pi/.vscode-server/data/User/workspaceStorage/d3d2cb05fc09f903466b81e23e6882fc/vscode.lock': Lock acquired.
+[2022-09-28 07:41:16.542] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-09-28 07:41:17.820] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-09-28 07:41:19.020] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-28 07:41:19.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-28 07:41:19.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-28 07:41:19.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-28 07:41:19.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-28 07:41:21.799] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-09-28 07:41:22.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-28 07:41:22.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-28 07:41:22.291] [exthost] [info] Eager extensions activated
+[2022-09-28 07:41:22.511] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-09-28 12:13:29.630] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-28 12:13:29.631] [exthost] [info] Lock '/home/rbc-pi/.vscode-server/data/User/workspaceStorage/d3d2cb05fc09f903466b81e23e6882fc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-28 12:13:29.729] [exthost] [info] Extension host with pid 1085 exiting with code 0

@@ -1,0 +1,29 @@
+[Info  - 12:33:00] (2545) Pylance language server 2022.9.40 (pyright 9fd1b94c) starting
+[Info  - 12:33:00] (2545) Server root directory: /home/rbc-pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 12:33:00] (2545) Starting service instance "rbc-pi"
+[Info  - 12:33:00] (2545) Notebook support: LSP
+[Info  - 12:33:00] (2545) Interactive window support: LSP
+[Info  - 12:33:00] (2545) No configuration file found.
+[Info  - 12:33:00] (2545) No pyproject.toml file found.
+[Info  - 12:33:00] (2545) Setting pythonPath for service "rbc-pi": "/bin/python"
+[Warn  - 12:33:00] (2545) stubPath /home/rbc-pi/typings is not a valid directory.
+[Info  - 12:33:01] (2545) Assuming Python version 3.9
+[Info  - 12:33:01] (2545) Assuming Python platform Linux
+[Info  - 12:33:01] (2545) Searching for source files
+[Info  - 12:33:01] (2545) Found 1 source file
+[Info  - 12:33:02] (2545) Background analysis(1) root directory: /home/rbc-pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 12:33:02] (2545) Background analysis(1) started
+[Info  - 12:33:10] (2545) [BG(1)] Long operation: binding: /usr/lib/python3/dist-packages/numpy/lib/__init__.py (3301ms)
+[Info  - 12:33:10] (2545) [BG(1)] Long operation: binding: /usr/lib/python3/dist-packages/numpy/__init__.py (5051ms)
+[Info  - 12:33:11] (2545) [BG(1)] Long operation: checking: /home/rbc-pi/hello.py (7683ms)
+[Info  - 12:33:11] (2545) [BG(1)] Long operation: analyzing: /home/rbc-pi/hello.py (8485ms)
+[Info  - 12:33:13] (2545) Searching for source files
+[Info  - 12:33:13] (2545) Found 2 source files
+[Info  - 12:33:16] (2545) [BG(1)] Long operation: checking: /home/rbc-pi/hello.py (2770ms)
+[Info  - 12:33:16] (2545) [BG(1)] Long operation: analyzing: /home/rbc-pi/hello.py (3251ms)
+[Info  - 12:56:19] (2545) Searching for source files
+[Info  - 12:56:19] (2545) Found 2 source files
+[Info  - 12:56:23] (2545) [BG(1)] Long operation: binding: /usr/lib/python3/dist-packages/numpy/__init__.py (2310ms)
+[Info  - 12:56:23] (2545) [BG(1)] Long operation: checking: /home/rbc-pi/hello.py (3725ms)
+[Info  - 12:56:23] (2545) [BG(1)] Long operation: analyzing: /home/rbc-pi/hello.py (4409ms)
+[Info  - 12:57:57] (2545) [FG] Long operation: binding: /usr/lib/python3/dist-packages/numpy/__init__.py (3036ms)

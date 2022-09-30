@@ -1,0 +1,49 @@
+[2022-09-29T10:51:55.116Z] Log level: Info
+[2022-09-29T10:51:55.140Z] [info] Validating found git in: git
+[2022-09-29T10:51:55.249Z] [info] Using git 2.30.2 from git
+[2022-09-29T10:51:55.470Z] > git rev-parse --show-toplevel [165ms]
+[2022-09-29T10:51:55.470Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-29T10:51:55.534Z] > git rev-parse --show-toplevel [39ms]
+[2022-09-29T10:51:55.534Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-29T10:51:55.565Z] > git rev-parse --show-toplevel [10ms]
+[2022-09-29T10:51:55.565Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-29T10:51:55.607Z] > git rev-parse --show-toplevel [27ms]
+[2022-09-29T10:51:55.607Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-29T10:51:55.639Z] > git rev-parse --show-toplevel [17ms]
+[2022-09-29T10:51:55.639Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-29T10:51:55.710Z] > git rev-parse --show-toplevel [2ms]
+[2022-09-29T10:51:55.710Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-29T10:51:55.756Z] > git rev-parse --show-toplevel [5ms]
+[2022-09-29T10:51:55.756Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-09-29T10:52:43.038Z] > git init [12ms]
+[2022-09-29T10:52:43.038Z] hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+[2022-09-29T10:52:43.056Z] > git rev-parse --show-toplevel [3ms]
+[2022-09-29T10:52:43.073Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-09-29T10:52:43.100Z] [info] Open repository: /home/rbc-pi
+[2022-09-29T10:52:43.557Z] > git show --textconv :watch.1.md [23ms]
+[2022-09-29T10:52:43.565Z] > git ls-files --stage -- /home/rbc-pi/watch.1.md [12ms]
+[2022-09-29T10:52:43.831Z] > git check-ignore -v -z --stdin [4ms]
+[2022-09-29T10:52:44.107Z] > git status -z -uall [984ms]
+[2022-09-29T10:52:44.125Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-29T10:52:44.148Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+[2022-09-29T10:52:44.182Z] > git remote --verbose [5ms]
+[2022-09-29T10:52:44.183Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+[2022-09-29T10:52:48.466Z] > git config --get commit.template [19ms]
+[2022-09-29T10:52:48.729Z] > git status -z -uall [235ms]
+[2022-09-29T10:52:48.754Z] > git symbolic-ref --short HEAD [2ms]
+[2022-09-29T10:52:48.780Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-29T10:52:48.824Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+[2022-09-29T10:52:48.825Z] > git remote --verbose [5ms]
+[2022-09-29T10:52:53.948Z] > git config --get commit.template [40ms]
+[2022-09-29T10:52:54.029Z] > git ls-files --stage -- /home/rbc-pi/watch.1.md [22ms]
+[2022-09-29T10:52:54.506Z] > git check-ignore -v -z --stdin [3ms]
+[2022-09-29T10:52:55.412Z] > git show --textconv :watch.1.md [4ms]

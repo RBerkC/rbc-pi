@@ -1,0 +1,27 @@
+[Trace 10:29:31.222] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 10:29:31.232] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 10:29:31.292] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 10:29:31.647] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Debug 10:29:31.658] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Trace 10:29:32.274] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 10:29:32.810] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 10:29:32.811] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 10:29:33.254] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 10:30:02.319] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 10:30:05.133] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 10:30:05.400] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Trace 10:30:06.666] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 10:30:06.875] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 10:30:06.876] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 10:30:07.673] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 10:30:08.002] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/rbc-pi/watch.1.md
+[Trace 10:30:08.003] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/rbc-pi/.vscode-server/data/User/History/-2da6e377/zdfo.md
+[Trace 10:32:41.671] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 10:32:48.296] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 10:32:48.304] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Debug 10:32:48.446] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 10:32:48.446] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 10:35:42.083] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/rbc-pi/watch.1.md
+[Debug 10:36:08.933] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Debug 10:36:09.471] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 10:36:09.471] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md

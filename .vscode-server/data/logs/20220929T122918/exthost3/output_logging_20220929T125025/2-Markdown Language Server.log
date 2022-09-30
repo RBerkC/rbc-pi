@@ -1,0 +1,5 @@
+[Trace 10:50:27.790] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 10:50:27.853] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 10:50:27.861] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 10:50:27.917] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Debug 10:50:28.255] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md

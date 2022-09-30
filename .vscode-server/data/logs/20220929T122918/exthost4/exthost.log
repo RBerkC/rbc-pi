@@ -1,0 +1,15 @@
+[2022-09-29 12:51:53.560] [exthost] [info] Extension host with pid 3682 started
+[2022-09-29 12:51:53.599] [exthost] [info] Lock '/home/rbc-pi/.vscode-server/data/User/workspaceStorage/d3d2cb05fc09f903466b81e23e6882fc/vscode.lock': Lock acquired.
+[2022-09-29 12:51:53.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-09-29 12:51:53.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-09-29 12:51:54.154] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-29 12:51:54.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-29 12:51:54.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-29 12:51:54.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-29 12:51:54.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-29 12:51:55.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-29 12:51:55.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-29 12:51:55.400] [exthost] [info] Eager extensions activated
+[2022-09-29 12:51:56.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-09-29 12:52:44.719] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 9705
+[2022-09-29 12:52:49.217] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 9705

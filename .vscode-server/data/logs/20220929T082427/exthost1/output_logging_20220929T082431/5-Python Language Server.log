@@ -1,0 +1,25 @@
+[Info  - 08:24:40] (1199) Pylance language server 2022.9.40 (pyright 9fd1b94c) starting
+[Info  - 08:24:40] (1199) Server root directory: /home/rbc-pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 08:24:40] (1199) Starting service instance "rbc-pi"
+[Info  - 08:24:40] (1199) Notebook support: LSP
+[Info  - 08:24:40] (1199) Interactive window support: LSP
+[Info  - 08:24:41] (1199) No configuration file found.
+[Info  - 08:24:41] (1199) No pyproject.toml file found.
+[Info  - 08:24:41] (1199) Setting pythonPath for service "rbc-pi": "/bin/python"
+[Warn  - 08:24:41] (1199) stubPath /home/rbc-pi/typings is not a valid directory.
+[Info  - 08:24:41] (1199) Assuming Python version 3.9
+[Info  - 08:24:41] (1199) Assuming Python platform Linux
+[Info  - 08:24:41] (1199) Searching for source files
+[Info  - 08:24:41] (1199) Found 2 source files
+[Info  - 08:24:43] (1199) Background analysis(1) root directory: /home/rbc-pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 08:24:43] (1199) Background analysis(1) started
+[Info  - 08:24:49] (1199) [BG(1)] Long operation: binding: /usr/lib/python3/dist-packages/numpy/__init__.py (3007ms)
+[Info  - 08:24:50] (1199) [BG(1)] Long operation: checking: /home/rbc-pi/watch.py (6438ms)
+[Info  - 08:24:50] (1199) [BG(1)] Long operation: analyzing: /home/rbc-pi/watch.py (7319ms)
+[Info  - 09:28:56] (1199) [FG] Long operation: binding: /usr/lib/python3/dist-packages/numpy/__init__.py (3151ms)
+[Info  - 09:59:14] (1199) Searching for source files
+[Info  - 09:59:14] (1199) Found 2 source files
+[Info  - 09:59:19] (1199) [BG(1)] Long operation: binding: /usr/lib/python3/dist-packages/numpy/__init__.py (2351ms)
+[Info  - 09:59:20] (1199) [BG(1)] Long operation: checking: /home/rbc-pi/watch.py (5013ms)
+[Info  - 09:59:20] (1199) [BG(1)] Long operation: analyzing: /home/rbc-pi/watch.py (5896ms)
+[Info  - 11:10:37] (1199) [FG] Long operation: binding: /usr/lib/python3/dist-packages/numpy/__init__.py (2294ms)
