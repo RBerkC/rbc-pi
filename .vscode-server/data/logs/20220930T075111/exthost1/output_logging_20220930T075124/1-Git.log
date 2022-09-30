@@ -1,0 +1,524 @@
+[2022-09-30T05:51:26.397Z] Log level: Info
+[2022-09-30T05:51:26.420Z] [info] Validating found git in: git
+[2022-09-30T05:51:26.549Z] [info] Using git 2.30.2 from git
+[2022-09-30T05:51:26.796Z] > git rev-parse --show-toplevel [179ms]
+[2022-09-30T05:51:26.860Z] > git rev-parse --git-dir --git-common-dir [41ms]
+[2022-09-30T05:51:26.891Z] [info] Open repository: /home/rbc-pi
+[2022-09-30T05:51:27.135Z] > git status -z -uall [219ms]
+[2022-09-30T05:51:27.456Z] > git symbolic-ref --short HEAD [306ms]
+[2022-09-30T05:51:27.475Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-30T05:51:27.518Z] > git remote --verbose [9ms]
+[2022-09-30T05:51:27.519Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+[2022-09-30T05:51:31.426Z] > git check-ignore -v -z --stdin [3355ms]
+[2022-09-30T05:51:31.433Z] > git config --get commit.template [34ms]
+[2022-09-30T05:51:31.711Z] > git status -z -uall [234ms]
+[2022-09-30T05:51:31.752Z] > git symbolic-ref --short HEAD [21ms]
+[2022-09-30T05:51:31.775Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-30T05:51:31.818Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+[2022-09-30T05:51:31.819Z] > git remote --verbose [5ms]
+[2022-09-30T05:51:36.284Z] > git check-ignore -v -z --stdin [76ms]
+[2022-09-30T05:51:36.287Z] > git config --get commit.template [52ms]
+[2022-09-30T05:51:37.656Z] > git status -z -uall [161ms]
+[2022-09-30T05:51:37.683Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:51:37.709Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:51:37.768Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+[2022-09-30T05:51:37.769Z] > git remote --verbose [5ms]
+[2022-09-30T05:51:41.793Z] > git config --get commit.template [31ms]
+[2022-09-30T05:51:41.966Z] > git show --textconv :watch.1.md [66ms]
+[2022-09-30T05:51:41.969Z] > git ls-files --stage -- /home/rbc-pi/watch.1.md [38ms]
+[2022-09-30T05:51:42.012Z] > git cat-file -s 9f9aad1ff3cdba179194a2b5bd9eb7db739933a2 [6ms]
+[2022-09-30T05:51:42.397Z] > git check-ignore -v -z --stdin [51ms]
+[2022-09-30T05:51:46.985Z] > git status -z -uall [161ms]
+[2022-09-30T05:51:47.014Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:51:47.044Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-30T05:51:47.101Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+[2022-09-30T05:51:47.103Z] > git remote --verbose [7ms]
+[2022-09-30T05:51:51.222Z] > git config --get commit.template [32ms]
+[2022-09-30T05:51:53.055Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [98ms]
+[2022-09-30T05:51:53.055Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-09-30T05:51:53.086Z] > git config --get-all user.name [2ms]
+[2022-09-30T05:51:57.953Z] > git ls-files --stage -- /home/rbc-pi/watch.1.md [12ms]
+[2022-09-30T05:51:57.985Z] > git cat-file -s 9f9aad1ff3cdba179194a2b5bd9eb7db739933a2 [4ms]
+[2022-09-30T05:51:58.111Z] > git status -z -uall [239ms]
+[2022-09-30T05:51:58.159Z] > git show --textconv :watch.1.md [61ms]
+[2022-09-30T05:51:58.167Z] > git symbolic-ref --short HEAD [11ms]
+[2022-09-30T05:51:58.197Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-30T05:51:58.258Z] > git remote --verbose [6ms]
+[2022-09-30T05:51:58.259Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+[2022-09-30T05:52:02.267Z] > git config --get commit.template [22ms]
+[2022-09-30T05:52:07.458Z] > git status -z -uall [162ms]
+[2022-09-30T05:52:07.485Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:52:07.514Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-30T05:52:07.566Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+[2022-09-30T05:52:07.568Z] > git remote --verbose [6ms]
+[2022-09-30T05:52:11.532Z] > git config --get commit.template [33ms]
+[2022-09-30T05:52:16.724Z] > git status -z -uall [159ms]
+[2022-09-30T05:52:16.755Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:52:16.787Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-30T05:52:16.844Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+[2022-09-30T05:52:16.847Z] > git remote --verbose [6ms]
+[2022-09-30T05:52:20.836Z] > git config --get commit.template [58ms]
+[2022-09-30T05:52:26.112Z] > git status -z -uall [201ms]
+[2022-09-30T05:52:26.144Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:52:26.176Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:52:26.237Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+[2022-09-30T05:52:26.239Z] > git remote --verbose [5ms]
+[2022-09-30T05:52:30.077Z] > git config --get commit.template [23ms]
+[2022-09-30T05:52:35.338Z] > git status -z -uall [203ms]
+[2022-09-30T05:52:35.367Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:52:35.397Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-09-30T05:52:35.455Z] > git remote --verbose [5ms]
+[2022-09-30T05:52:35.456Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+[2022-09-30T05:52:39.327Z] > git config --get commit.template [39ms]
+[2022-09-30T05:52:44.526Z] > git status -z -uall [159ms]
+[2022-09-30T05:52:44.560Z] > git symbolic-ref --short HEAD [5ms]
+[2022-09-30T05:52:44.592Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:52:44.652Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+[2022-09-30T05:52:44.654Z] > git remote --verbose [6ms]
+[2022-09-30T05:52:48.596Z] > git config --get commit.template [47ms]
+[2022-09-30T05:52:53.796Z] > git status -z -uall [159ms]
+[2022-09-30T05:52:53.826Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:52:53.859Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:52:53.918Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+[2022-09-30T05:52:53.920Z] > git remote --verbose [5ms]
+[2022-09-30T05:52:57.843Z] > git config --get commit.template [43ms]
+[2022-09-30T05:53:01.176Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [41ms]
+[2022-09-30T05:53:01.176Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-09-30T05:53:01.206Z] > git config --get-all user.name [3ms]
+[2022-09-30T05:53:06.556Z] > git status -z -uall [184ms]
+[2022-09-30T05:53:06.587Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:53:06.621Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+[2022-09-30T05:53:06.681Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+[2022-09-30T05:53:06.683Z] > git remote --verbose [6ms]
+[2022-09-30T05:53:10.584Z] > git config --get commit.template [41ms]
+[2022-09-30T05:53:15.850Z] > git status -z -uall [211ms]
+[2022-09-30T05:53:15.879Z] > git symbolic-ref --short HEAD [4ms]
+[2022-09-30T05:53:15.907Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:53:15.961Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [29ms]
+[2022-09-30T05:53:15.963Z] > git remote --verbose [5ms]
+[2022-09-30T05:53:19.827Z] > git config --get commit.template [44ms]
+[2022-09-30T05:53:25.017Z] > git status -z -uall [160ms]
+[2022-09-30T05:53:25.044Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:53:25.071Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:53:25.121Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-09-30T05:53:25.123Z] > git remote --verbose [5ms]
+[2022-09-30T05:53:29.093Z] > git config --get commit.template [68ms]
+[2022-09-30T05:53:34.332Z] > git status -z -uall [190ms]
+[2022-09-30T05:53:34.362Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:53:34.392Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:53:34.451Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+[2022-09-30T05:53:34.452Z] > git remote --verbose [5ms]
+[2022-09-30T05:53:38.314Z] > git config --get commit.template [30ms]
+[2022-09-30T05:53:43.513Z] > git status -z -uall [157ms]
+[2022-09-30T05:53:43.543Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:53:43.574Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:53:43.633Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+[2022-09-30T05:53:43.635Z] > git remote --verbose [6ms]
+[2022-09-30T05:53:47.554Z] > git config --get commit.template [47ms]
+[2022-09-30T05:53:47.772Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [55ms]
+[2022-09-30T05:53:47.772Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-09-30T05:53:47.803Z] > git config --get-all user.name [3ms]
+[2022-09-30T05:53:58.479Z] > git status -z -uall [203ms]
+[2022-09-30T05:53:58.511Z] > git symbolic-ref --short HEAD [4ms]
+[2022-09-30T05:53:58.543Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-30T05:53:58.603Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+[2022-09-30T05:53:58.605Z] > git remote --verbose [6ms]
+[2022-09-30T05:54:02.590Z] > git config --get commit.template [43ms]
+[2022-09-30T05:54:06.864Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [42ms]
+[2022-09-30T05:54:06.864Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-09-30T05:54:06.896Z] > git config --get-all user.name [3ms]
+[2022-09-30T05:54:07.789Z] > git status -z -uall [166ms]
+[2022-09-30T05:54:07.824Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:54:07.863Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+[2022-09-30T05:54:07.932Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [36ms]
+[2022-09-30T05:54:07.933Z] > git remote --verbose [5ms]
+[2022-09-30T05:54:11.871Z] > git config --get commit.template [86ms]
+[2022-09-30T05:54:17.113Z] > git status -z -uall [209ms]
+[2022-09-30T05:54:17.144Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:54:17.184Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+[2022-09-30T05:54:17.249Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+[2022-09-30T05:54:17.251Z] > git remote --verbose [5ms]
+[2022-09-30T05:54:21.100Z] > git config --get commit.template [24ms]
+[2022-09-30T05:54:26.288Z] > git status -z -uall [155ms]
+[2022-09-30T05:54:26.319Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:54:26.351Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:54:26.412Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+[2022-09-30T05:54:26.413Z] > git remote --verbose [5ms]
+[2022-09-30T05:54:30.332Z] > git config --get commit.template [37ms]
+[2022-09-30T05:56:05.896Z] > git status -z -uall [236ms]
+[2022-09-30T05:56:05.918Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:56:05.937Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:56:05.972Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+[2022-09-30T05:56:05.973Z] > git remote --verbose [4ms]
+[2022-09-30T05:56:10.053Z] > git config --get commit.template [46ms]
+[2022-09-30T05:56:15.243Z] > git status -z -uall [159ms]
+[2022-09-30T05:56:15.272Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:56:15.303Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:56:15.359Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [29ms]
+[2022-09-30T05:56:15.361Z] > git remote --verbose [5ms]
+[2022-09-30T05:56:19.292Z] > git config --get commit.template [45ms]
+[2022-09-30T05:56:20.956Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [42ms]
+[2022-09-30T05:56:20.956Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-09-30T05:56:20.988Z] > git config --get-all user.name [3ms]
+[2022-09-30T05:56:24.481Z] > git status -z -uall [158ms]
+[2022-09-30T05:56:24.516Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:56:24.549Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-30T05:56:24.610Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+[2022-09-30T05:56:24.612Z] > git remote --verbose [6ms]
+[2022-09-30T05:56:28.557Z] > git config --get commit.template [47ms]
+[2022-09-30T05:56:33.787Z] > git status -z -uall [165ms]
+[2022-09-30T05:56:33.820Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:56:33.854Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-30T05:56:33.919Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+[2022-09-30T05:56:33.921Z] > git remote --verbose [5ms]
+[2022-09-30T05:56:37.934Z] > git symbolic-ref --short HEAD [77ms]
+[2022-09-30T05:56:37.966Z] > git config --get commit.template [187ms]
+[2022-09-30T05:56:37.975Z] > git remote add origin https://github.com/RBerkC/rbc-pi.git [9ms]
+[2022-09-30T05:56:38.183Z] > git status -z -uall [180ms]
+[2022-09-30T05:56:38.215Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:56:38.247Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:56:38.307Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+[2022-09-30T05:56:38.308Z] > git remote --verbose [4ms]
+[2022-09-30T05:56:42.212Z] > git config --get commit.template [59ms]
+[2022-09-30T05:56:42.326Z] > git push -u origin master [52ms]
+[2022-09-30T05:56:42.327Z] error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/RBerkC/rbc-pi.git'
+[2022-09-30T05:56:43.159Z] > git status -z -uall [160ms]
+[2022-09-30T05:56:43.194Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:56:43.226Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:56:43.288Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+[2022-09-30T05:56:43.289Z] > git remote --verbose [4ms]
+[2022-09-30T05:56:47.217Z] > git config --get commit.template [31ms]
+[2022-09-30T05:56:47.392Z] > git ls-files --stage -- /home/rbc-pi/watch.1.md [55ms]
+[2022-09-30T05:56:47.429Z] > git cat-file -s 9f9aad1ff3cdba179194a2b5bd9eb7db739933a2 [5ms]
+[2022-09-30T05:56:48.488Z] > git show --textconv :watch.1.md [11ms]
+[2022-09-30T05:56:53.582Z] > git status -z -uall [161ms]
+[2022-09-30T05:56:53.621Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:56:53.656Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:56:53.743Z] > git remote --verbose [24ms]
+[2022-09-30T05:56:53.747Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [59ms]
+[2022-09-30T05:56:57.703Z] > git config --get commit.template [39ms]
+[2022-09-30T05:57:01.392Z] > git log --oneline --cherry master...master@{upstream} -- [2ms]
+[2022-09-30T05:57:01.393Z] fatal: no such branch: 'master...master'
+[2022-09-30T05:57:02.915Z] > git pull --tags [1491ms]
+[2022-09-30T05:57:02.915Z] hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+[2022-09-30T05:57:03.130Z] > git status -z -uall [172ms]
+[2022-09-30T05:57:03.168Z] > git symbolic-ref --short HEAD [8ms]
+[2022-09-30T05:57:03.201Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:57:03.267Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [37ms]
+[2022-09-30T05:57:03.275Z] > git remote --verbose [15ms]
+[2022-09-30T05:57:10.077Z] > git config --get commit.template [79ms]
+[2022-09-30T05:57:10.490Z] > git ls-files --stage -- /home/rbc-pi/watch.1.md [43ms]
+[2022-09-30T05:57:10.556Z] > git cat-file -s 9f9aad1ff3cdba179194a2b5bd9eb7db739933a2 [21ms]
+[2022-09-30T05:57:11.990Z] > git show --textconv :watch.1.md [29ms]
+[2022-09-30T05:57:12.114Z] > git ls-files --stage -- /home/rbc-pi/watch.1.md [25ms]
+[2022-09-30T05:57:12.199Z] > git cat-file -s 9f9aad1ff3cdba179194a2b5bd9eb7db739933a2 [38ms]
+[2022-09-30T05:57:12.318Z] > git show --textconv :watch.1.md [39ms]
+[2022-09-30T05:57:15.377Z] > git status -z -uall [234ms]
+[2022-09-30T05:57:15.447Z] > git symbolic-ref --short HEAD [22ms]
+[2022-09-30T05:57:15.523Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+[2022-09-30T05:57:15.636Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [55ms]
+[2022-09-30T05:57:15.638Z] > git remote --verbose [7ms]
+[2022-09-30T05:57:21.528Z] > git config --get commit.template [51ms]
+[2022-09-30T05:57:21.778Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [132ms]
+[2022-09-30T05:57:21.779Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-09-30T05:57:21.826Z] > git config --get-all user.name [15ms]
+[2022-09-30T05:57:26.727Z] > git status -z -uall [167ms]
+[2022-09-30T05:57:26.760Z] > git symbolic-ref --short HEAD [4ms]
+[2022-09-30T05:57:26.791Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:57:26.853Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+[2022-09-30T05:57:26.857Z] > git remote --verbose [8ms]
+[2022-09-30T05:57:30.844Z] > git config --get commit.template [32ms]
+[2022-09-30T05:57:36.050Z] > git status -z -uall [171ms]
+[2022-09-30T05:57:36.084Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:57:36.117Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:57:36.185Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
+[2022-09-30T05:57:36.186Z] > git remote --verbose [5ms]
+[2022-09-30T05:57:40.199Z] > git config --get commit.template [61ms]
+[2022-09-30T05:57:45.414Z] > git status -z -uall [171ms]
+[2022-09-30T05:57:45.447Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:57:45.481Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:57:45.545Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+[2022-09-30T05:57:45.546Z] > git remote --verbose [4ms]
+[2022-09-30T05:57:49.590Z] > git config --get commit.template [28ms]
+[2022-09-30T05:57:54.829Z] > git status -z -uall [202ms]
+[2022-09-30T05:57:54.896Z] > git symbolic-ref --short HEAD [21ms]
+[2022-09-30T05:57:54.940Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-30T05:57:55.020Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+[2022-09-30T05:57:55.024Z] > git remote --verbose [9ms]
+[2022-09-30T05:57:59.033Z] > git config --get commit.template [25ms]
+[2022-09-30T05:58:04.882Z] > git status -z -uall [172ms]
+[2022-09-30T05:58:04.915Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:58:04.949Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:58:05.017Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [36ms]
+[2022-09-30T05:58:05.019Z] > git remote --verbose [6ms]
+[2022-09-30T05:58:09.007Z] > git config --get commit.template [50ms]
+[2022-09-30T05:58:14.217Z] > git status -z -uall [174ms]
+[2022-09-30T05:58:14.250Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:58:14.283Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:58:14.349Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+[2022-09-30T05:58:14.351Z] > git remote --verbose [5ms]
+[2022-09-30T05:58:18.347Z] > git config --get commit.template [38ms]
+[2022-09-30T05:58:22.686Z] > git ls-files --stage -- /home/rbc-pi/watch.1.md [11ms]
+[2022-09-30T05:58:22.719Z] > git cat-file -s 9f9aad1ff3cdba179194a2b5bd9eb7db739933a2 [3ms]
+[2022-09-30T05:58:22.776Z] > git show --textconv :watch.1.md [11ms]
+[2022-09-30T05:58:23.541Z] > git status -z -uall [161ms]
+[2022-09-30T05:58:23.573Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:58:23.606Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:58:23.668Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+[2022-09-30T05:58:23.670Z] > git remote --verbose [5ms]
+[2022-09-30T05:58:27.591Z] > git config --get commit.template [46ms]
+[2022-09-30T05:58:32.849Z] > git status -z -uall [191ms]
+[2022-09-30T05:58:32.881Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:58:32.913Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:58:32.978Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
+[2022-09-30T05:58:32.980Z] > git remote --verbose [7ms]
+[2022-09-30T05:58:36.831Z] > git config --get commit.template [26ms]
+[2022-09-30T05:58:39.342Z] > git check-ignore -v -z --stdin [22ms]
+[2022-09-30T05:58:42.090Z] > git status -z -uall [190ms]
+[2022-09-30T05:58:42.122Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:58:42.154Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:58:42.217Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+[2022-09-30T05:58:42.219Z] > git remote --verbose [5ms]
+[2022-09-30T05:58:46.067Z] > git config --get commit.template [42ms]
+[2022-09-30T05:58:51.264Z] > git status -z -uall [163ms]
+[2022-09-30T05:58:51.297Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:58:51.329Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:58:51.392Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+[2022-09-30T05:58:51.393Z] > git remote --verbose [4ms]
+[2022-09-30T05:58:55.275Z] > git config --get commit.template [23ms]
+[2022-09-30T05:59:00.514Z] > git status -z -uall [178ms]
+[2022-09-30T05:59:00.546Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:59:00.578Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:59:00.640Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+[2022-09-30T05:59:00.642Z] > git remote --verbose [5ms]
+[2022-09-30T05:59:04.608Z] > git config --get commit.template [24ms]
+[2022-09-30T05:59:09.905Z] > git show --textconv :watch.py [89ms]
+[2022-09-30T05:59:09.914Z] > git ls-files --stage -- /home/rbc-pi/watch.py [57ms]
+[2022-09-30T05:59:09.963Z] > git cat-file -s a11ea3e685e87d4fc4a4918d8d996321f5c404f5 [11ms]
+[2022-09-30T05:59:09.977Z] > git status -z -uall [278ms]
+[2022-09-30T05:59:10.034Z] > git symbolic-ref --short HEAD [21ms]
+[2022-09-30T05:59:10.079Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+[2022-09-30T05:59:10.158Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+[2022-09-30T05:59:10.167Z] > git remote --verbose [12ms]
+[2022-09-30T05:59:14.508Z] > git config --get commit.template [121ms]
+[2022-09-30T05:59:22.022Z] > git status -z -uall [271ms]
+[2022-09-30T05:59:22.088Z] > git symbolic-ref --short HEAD [4ms]
+[2022-09-30T05:59:22.140Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-30T05:59:22.257Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [68ms]
+[2022-09-30T05:59:22.259Z] > git remote --verbose [7ms]
+[2022-09-30T05:59:28.137Z] > git config --get commit.template [31ms]
+[2022-09-30T05:59:33.328Z] > git status -z -uall [157ms]
+[2022-09-30T05:59:33.363Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:59:33.398Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:59:33.465Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+[2022-09-30T05:59:33.467Z] > git remote --verbose [6ms]
+[2022-09-30T05:59:37.409Z] > git config --get commit.template [26ms]
+[2022-09-30T05:59:42.664Z] > git status -z -uall [190ms]
+[2022-09-30T05:59:42.703Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:59:42.742Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-30T05:59:42.817Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [39ms]
+[2022-09-30T05:59:42.819Z] > git remote --verbose [6ms]
+[2022-09-30T05:59:46.660Z] > git config --get commit.template [48ms]
+[2022-09-30T05:59:51.860Z] > git status -z -uall [160ms]
+[2022-09-30T05:59:51.900Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T05:59:51.940Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T05:59:52.017Z] > git remote --verbose [4ms]
+[2022-09-30T05:59:52.018Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [41ms]
+[2022-09-30T05:59:55.925Z] > git config --get commit.template [26ms]
+[2022-09-30T06:00:01.180Z] > git status -z -uall [184ms]
+[2022-09-30T06:00:01.222Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:00:01.265Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:00:01.349Z] > git remote --verbose [5ms]
+[2022-09-30T06:00:01.350Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [45ms]
+[2022-09-30T06:00:05.191Z] > git config --get commit.template [35ms]
+[2022-09-30T06:00:10.395Z] > git status -z -uall [161ms]
+[2022-09-30T06:00:10.441Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:00:10.483Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:00:10.566Z] > git remote --verbose [4ms]
+[2022-09-30T06:00:10.567Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [43ms]
+[2022-09-30T06:00:14.472Z] > git config --get commit.template [20ms]
+[2022-09-30T06:00:19.727Z] > git status -z -uall [194ms]
+[2022-09-30T06:00:19.761Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:00:19.797Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-30T06:00:19.862Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+[2022-09-30T06:00:19.863Z] > git remote --verbose [4ms]
+[2022-09-30T06:00:23.725Z] > git config --get commit.template [32ms]
+[2022-09-30T06:00:28.923Z] > git status -z -uall [161ms]
+[2022-09-30T06:00:28.960Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:00:28.997Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:00:29.069Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [38ms]
+[2022-09-30T06:00:29.071Z] > git remote --verbose [6ms]
+[2022-09-30T06:00:32.987Z] > git config --get commit.template [29ms]
+[2022-09-30T06:00:38.303Z] > git status -z -uall [239ms]
+[2022-09-30T06:00:38.371Z] > git symbolic-ref --short HEAD [20ms]
+[2022-09-30T06:00:38.485Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [55ms]
+[2022-09-30T06:00:38.565Z] > git remote --verbose [4ms]
+[2022-09-30T06:00:38.566Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [37ms]
+[2022-09-30T06:00:42.427Z] > git config --get commit.template [28ms]
+[2022-09-30T06:01:21.188Z] > git status -z -uall [232ms]
+[2022-09-30T06:01:21.214Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:01:21.241Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:01:21.290Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-09-30T06:01:21.292Z] > git remote --verbose [5ms]
+[2022-09-30T06:01:25.371Z] > git config --get commit.template [38ms]
+[2022-09-30T06:01:30.573Z] > git status -z -uall [161ms]
+[2022-09-30T06:01:30.610Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:01:30.650Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-30T06:01:30.726Z] > git remote --verbose [5ms]
+[2022-09-30T06:01:30.727Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [42ms]
+[2022-09-30T06:01:34.652Z] > git config --get commit.template [42ms]
+[2022-09-30T06:01:39.920Z] > git status -z -uall [196ms]
+[2022-09-30T06:01:39.959Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:01:39.999Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:01:40.076Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+[2022-09-30T06:01:40.078Z] > git remote --verbose [6ms]
+[2022-09-30T06:01:43.935Z] > git config --get commit.template [20ms]
+[2022-09-30T06:01:49.199Z] > git status -z -uall [198ms]
+[2022-09-30T06:01:49.291Z] > git symbolic-ref --short HEAD [27ms]
+[2022-09-30T06:01:49.430Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [70ms]
+[2022-09-30T06:01:49.515Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [37ms]
+[2022-09-30T06:01:49.518Z] > git remote --verbose [8ms]
+[2022-09-30T06:01:53.384Z] > git config --get commit.template [28ms]
+[2022-09-30T06:01:58.585Z] > git status -z -uall [159ms]
+[2022-09-30T06:01:58.626Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:01:58.667Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:01:58.751Z] > git remote --verbose [5ms]
+[2022-09-30T06:01:58.753Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [46ms]
+[2022-09-30T06:02:02.596Z] > git config --get commit.template [34ms]
+[2022-09-30T06:02:07.856Z] > git status -z -uall [185ms]
+[2022-09-30T06:02:07.896Z] > git symbolic-ref --short HEAD [2ms]
+[2022-09-30T06:02:07.945Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-30T06:02:08.027Z] > git remote --verbose [4ms]
+[2022-09-30T06:02:08.028Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [43ms]
+[2022-09-30T06:02:11.880Z] > git config --get commit.template [34ms]
+[2022-09-30T06:02:17.208Z] > git status -z -uall [250ms]
+[2022-09-30T06:02:17.339Z] > git symbolic-ref --short HEAD [55ms]
+[2022-09-30T06:02:17.399Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+[2022-09-30T06:02:17.465Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+[2022-09-30T06:02:17.467Z] > git remote --verbose [5ms]
+[2022-09-30T06:02:21.324Z] > git config --get commit.template [30ms]
+[2022-09-30T06:02:26.524Z] > git status -z -uall [160ms]
+[2022-09-30T06:02:26.565Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:02:26.603Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:02:26.678Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+[2022-09-30T06:02:26.679Z] > git remote --verbose [5ms]
+[2022-09-30T06:02:30.620Z] > git config --get commit.template [65ms]
+[2022-09-30T06:06:37.256Z] > git status -z -uall [222ms]
+[2022-09-30T06:06:37.283Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:06:37.312Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:06:37.371Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+[2022-09-30T06:06:37.374Z] > git remote --verbose [12ms]
+[2022-09-30T06:06:41.508Z] > git config --get commit.template [36ms]
+[2022-09-30T06:06:46.705Z] > git status -z -uall [158ms]
+[2022-09-30T06:06:46.743Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:06:46.780Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:06:46.855Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [39ms]
+[2022-09-30T06:06:46.855Z] > git remote --verbose [4ms]
+[2022-09-30T06:06:50.791Z] > git config --get commit.template [27ms]
+[2022-09-30T06:06:55.994Z] > git status -z -uall [159ms]
+[2022-09-30T06:06:56.036Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:06:56.078Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-09-30T06:06:56.161Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [43ms]
+[2022-09-30T06:06:56.162Z] > git remote --verbose [4ms]
+[2022-09-30T06:07:00.036Z] > git config --get commit.template [36ms]
+[2022-09-30T06:07:05.288Z] > git status -z -uall [175ms]
+[2022-09-30T06:07:05.330Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-30T06:07:05.372Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-09-30T06:07:05.455Z] > git remote --verbose [3ms]
+[2022-09-30T06:07:05.456Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [45ms]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

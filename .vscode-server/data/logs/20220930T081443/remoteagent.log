@@ -1,0 +1,10 @@
+[2022-09-30 08:14:43.401] [remoteagent] [info] Extension host agent started.
+[2022-09-30 08:14:45.828] [remoteagent] [info] [127.0.0.1][fbee1e95][ManagementConnection] New connection established.
+[2022-09-30 08:14:45.834] [remoteagent] [info] [127.0.0.1][81fc897e][ExtensionHostConnection] New connection established.
+[2022-09-30 08:14:45.847] [remoteagent] [info] [127.0.0.1][81fc897e][ExtensionHostConnection] <1004> Launched Extension Host Process.
+[2022-09-30 08:14:58.437] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/rbc-pi/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)
+[2022-09-30 08:15:03.692] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/rbc-pi/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)

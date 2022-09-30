@@ -1,0 +1,15 @@
+[Info  - 08:27:40] (2099) Pylance language server 2022.9.40 (pyright 9fd1b94c) starting
+[Info  - 08:27:40] (2099) Server root directory: /home/rbc-pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 08:27:40] (2099) Starting service instance "rbc-pi"
+[Info  - 08:27:40] (2099) Notebook support: LSP
+[Info  - 08:27:40] (2099) Interactive window support: LSP
+[Info  - 08:27:41] (2099) No configuration file found.
+[Info  - 08:27:41] (2099) No pyproject.toml file found.
+[Info  - 08:27:41] (2099) Setting pythonPath for service "rbc-pi": "/bin/python"
+[Warn  - 08:27:41] (2099) stubPath /home/rbc-pi/typings is not a valid directory.
+[Info  - 08:27:41] (2099) Assuming Python version 3.9
+[Info  - 08:27:41] (2099) Assuming Python platform Linux
+[Info  - 08:27:41] (2099) Searching for source files
+[Info  - 08:27:41] (2099) Found 2 source files
+[Info  - 08:27:41] (2099) Background analysis(1) root directory: /home/rbc-pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 08:27:42] (2099) Background analysis(1) started

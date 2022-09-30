@@ -1,0 +1,5 @@
+[2022-09-30 07:51:11.548] [remoteagent] [info] Extension host agent started.
+[2022-09-30 07:51:12.120] [remoteagent] [error] [127.0.0.1][b7d46038][ManagementConnection] Unknown reconnection token (never seen).
+[2022-09-30 07:51:22.369] [remoteagent] [info] [127.0.0.1][3a4a407a][ManagementConnection] New connection established.
+[2022-09-30 07:51:22.374] [remoteagent] [info] [127.0.0.1][3267528d][ExtensionHostConnection] New connection established.
+[2022-09-30 07:51:22.389] [remoteagent] [info] [127.0.0.1][3267528d][ExtensionHostConnection] <5959> Launched Extension Host Process.

@@ -1,0 +1,17 @@
+[Info  - 08:15:07] (1168) Pylance language server 2022.9.40 (pyright 9fd1b94c) starting
+[Info  - 08:15:07] (1168) Server root directory: /home/rbc-pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 08:15:07] (1168) Starting service instance "rbc-pi"
+[Info  - 08:15:07] (1168) Notebook support: LSP
+[Info  - 08:15:07] (1168) Interactive window support: LSP
+[Info  - 08:15:08] (1168) No configuration file found.
+[Info  - 08:15:08] (1168) No pyproject.toml file found.
+[Info  - 08:15:08] (1168) Setting pythonPath for service "rbc-pi": "/bin/python"
+[Warn  - 08:15:08] (1168) stubPath /home/rbc-pi/typings is not a valid directory.
+[Info  - 08:15:08] (1168) Assuming Python version 3.9
+[Info  - 08:15:08] (1168) Assuming Python platform Linux
+[Info  - 08:15:08] (1168) Searching for source files
+[Info  - 08:15:08] (1168) Found 2 source files
+[Info  - 08:15:10] (1168) Background analysis(1) root directory: /home/rbc-pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 08:15:10] (1168) Background analysis(1) started
+[Info  - 08:15:19] (1168) [BG(1)] Long operation: binding: /usr/lib/python3/dist-packages/numpy/__init__.py (3424ms)
+[Info  - 08:15:19] (1168) [BG(1)] Long operation: getSemanticTokens full at /home/rbc-pi/watch.py (7514ms)

@@ -1,0 +1,584 @@
+[Trace 06:22:19.615] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:19.778] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:19.923] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:19.934] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:20.493] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:25.182] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:25.183] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:25.184] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:25.192] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:25.217] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:25.238] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:25.253] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:25.260] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:25.273] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:25.288] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:25.338] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:25.339] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:29.939] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:30.089] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.122] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.122] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:30.137] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:30.142] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.148] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.148] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.157] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:30.177] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:30.196] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:30.200] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.205] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.206] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:30.210] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.602] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.602] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:30.809] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:31.113] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:31.234] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:31.798] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:31.799] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:38.559] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:39.432] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:39.520] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:39.903] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:39.903] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:42.207] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:42.496] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:42.496] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:42.558] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:42.799] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:42.799] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:42.831] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:43.033] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:43.033] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:43.049] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:43.105] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:43.175] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:43.378] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:43.378] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:43.407] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:43.604] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:43.604] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:48.028] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.053] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.053] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:48.109] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.111] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.112] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:48.117] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.123] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.124] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:48.137] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:48.146] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.150] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.150] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:48.170] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:48.253] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.416] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.416] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:48.427] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.670] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.670] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:48.738] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.903] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:48.903] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:52.288] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:57.382] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:57.387] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:57.387] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:57.404] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:57.411] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:57.412] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:57.472] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:57.484] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:57.499] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:57.500] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:57.502] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:57.525] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:57.639] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:57.639] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:22:58.063] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:58.066] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:22:58.166] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:22:58.360] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:22:58.361] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:00.178] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:00.316] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:00.482] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:00.673] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:00.674] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:00.705] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:00.898] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:00.899] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:01.298] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:01.403] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:01.599] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:01.600] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:01.620] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:01.729] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:01.922] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:01.923] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:06.753] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:06.761] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:06.762] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:06.769] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:06.787] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:06.788] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:06.788] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:06.814] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:06.837] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:06.837] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:06.850] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:06.866] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:06.868] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:06.869] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:07.991] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.390] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.411] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:25.430] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:25.430] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.437] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.453] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.461] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:25.489] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:25.490] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.508] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.531] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.537] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.542] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.546] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.550] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:25.554] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:25.554] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.562] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.570] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.584] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.694] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:25.848] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:26.091] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:26.163] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:26.312] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:26.473] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:26.614] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:26.759] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:27.137] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:27.138] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:27.441] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:27.816] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:27.816] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:28.018] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:28.238] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:28.395] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:28.772] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:28.772] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:30.034] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:30.160] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:30.536] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:30.537] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:34.701] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:34.719] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:34.727] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:34.738] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:34.738] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:34.776] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:35.067] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:35.068] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:35.227] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:35.440] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:35.588] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:35.687] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:35.759] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:36.136] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:36.137] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:37.314] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:37.689] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:37.689] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:38.439] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:38.633] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:38.633] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:39.210] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:39.305] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:39.496] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:39.496] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:44.003] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:44.051] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:44.056] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:44.057] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:44.073] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:44.076] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:44.076] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:44.090] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:44.094] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:44.108] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:44.175] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:44.176] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:44.254] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:44.480] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:44.481] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:45.108] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:45.299] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:45.300] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:45.774] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:45.967] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:45.967] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:46.762] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:46.953] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:46.954] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:47.195] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:47.389] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:47.390] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:49.034] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.280] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.287] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.293] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.300] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:53.304] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:53.304] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.314] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.324] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.330] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.337] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:53.338] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:53.339] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.346] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:53.360] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:53.360] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:23:53.385] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:23:54.023] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:23:54.189] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:54.189] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:23:55.814] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.616] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.623] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.671] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.697] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.700] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.704] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:02.705] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:02.705] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.715] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.721] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.724] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.728] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.732] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:02.735] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:02.736] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:02.736] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:03.295] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:03.581] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:03.773] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:03.774] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:04.301] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:04.359] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:04.534] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:04.534] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:05.354] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:06.172] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:06.269] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:06.405] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:06.539] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:06.728] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:06.729] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:07.016] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:07.209] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:07.209] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:07.279] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:07.431] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:07.624] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:07.806] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:07.806] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:11.924] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:11.931] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:11.940] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:11.944] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:11.944] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:11.968] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:11.973] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:11.974] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:11.989] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:12.023] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:12.037] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:12.037] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:12.055] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:12.057] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:12.063] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:12.067] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:12.068] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:12.068] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:12.074] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:12.077] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:12.078] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:12.325] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.238] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.248] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.255] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.262] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.268] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:21.274] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:21.275] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.292] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.298] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.303] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.309] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.318] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.348] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:21.353] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:21.353] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:21.377] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.384] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.388] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.392] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.396] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.399] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.403] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.408] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:21.411] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:21.411] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:21.412] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:22.036] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:23.945] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:24.043] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:24.145] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:24.308] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:24.411] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:24.533] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:24.633] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:24.757] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:25.006] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:25.080] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:25.201] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:25.373] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:25.753] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:25.755] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:25.781] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:25.994] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:26.290] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:26.345] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.439] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:30.540] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:30.540] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.554] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.563] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.571] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.603] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:30.612] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:30.612] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.623] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.637] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.640] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.645] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.648] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:30.652] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:30.655] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:30.656] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:30.668] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:31.459] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:32.135] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:32.135] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:32.953] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:39.846] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:39.858] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:39.905] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:39.911] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:39.916] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:39.921] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:39.921] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:39.933] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:39.946] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:39.956] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:39.961] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:40.243] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:40.243] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:40.586] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:43.516] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:43.645] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:43.728] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:43.858] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:43.982] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:44.686] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:44.686] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:45.012] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:49.130] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:49.181] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:49.190] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:49.195] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:49.200] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:49.205] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:49.210] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:49.215] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:49.220] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:49.227] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:49.230] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:24:49.954] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:50.055] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:50.161] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:50.286] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:50.379] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:50.609] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:50.700] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:51.136] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:51.342] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:51.414] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:51.501] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:51.697] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:51.817] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:51.954] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:52.252] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:52.539] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:52.729] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:52.872] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:53.013] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:53.136] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:53.205] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:53.442] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:53.505] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:53.642] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:53.812] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:53.904] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:54.031] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.414] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.421] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.427] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.435] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.441] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.446] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.453] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.458] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.474] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.482] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.488] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.527] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.538] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.544] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.555] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.564] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.568] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.571] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:24:58.575] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:24:58.578] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:58.579] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:24:58.581] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:25:07.697] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:25:07.706] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:07.706] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:07.727] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:25:08.455] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:08.677] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:08.826] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:08.882] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:25:09.809] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:09.809] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:10.502] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:25:16.957] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:16.971] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:16.983] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:16.988] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:16.993] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.008] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.020] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.027] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.062] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.070] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.077] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.087] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.092] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.095] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.099] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.102] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.106] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:25:17.436] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:17.436] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.749] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.813] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:17.978] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:18.873] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:19.034] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:19.154] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:19.295] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:19.492] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:19.599] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:19.684] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:19.887] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:19.920] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:20.080] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:20.153] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:20.293] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:20.396] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:20.722] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:20.849] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:20.976] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:21.582] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:21.751] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:21.949] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:22.130] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.175] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:25:26.267] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:26.268] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:26.299] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.340] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.350] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.354] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.367] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.372] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.378] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.384] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.390] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.396] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:26.402] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:25:27.193] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:27.193] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:25:27.338] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:27.371] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:27.534] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:27.704] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:27.797] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:27.927] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:28.007] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:28.172] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:28.324] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:28.462] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:28.519] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:28.710] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:28.799] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:28.914] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:29.012] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:29.129] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:29.276] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:29.358] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:29.477] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:25:30.350] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:30.351] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Trace 06:25:30.924] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:25:35.522] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:35.523] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:35.545] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:25:35.557] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:35.565] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:35.573] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:35.585] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:35.591] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:35.596] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:25:35.604] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:35.605] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:35.927] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:25:39.687] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:40.312] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:25:44.851] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:25:44.862] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:44.862] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:25:44.916] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:26:22.014] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/rbc-pi/watch.1.md
+[Trace 06:26:22.015] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/rbc-pi/.vscode-server/data/User/History/-2da6e377/svKw.md
+[Trace 06:27:27.497] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:27:30.331] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:27:30.334] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 06:27:33.566] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:27:38.520] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:27:38.546] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Debug 06:27:38.546] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
+[Debug 06:27:42.568] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Trace 06:30:05.183] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Trace 06:30:08.115] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:30:09.656] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
+[Trace 06:33:45.676] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
+[Debug 06:33:46.977] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md

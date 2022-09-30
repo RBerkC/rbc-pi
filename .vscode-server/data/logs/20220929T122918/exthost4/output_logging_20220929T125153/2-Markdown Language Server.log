@@ -10,3 +10,6 @@
 [Debug 10:52:13.173] MdFoldingProvider: provideFoldingRanges - file:///home/rbc-pi/watch.1.md
 [Debug 10:52:13.174] TableOfContentsProvider: create - file:///home/rbc-pi/watch.1.md
 [Debug 10:52:13.974] LinkProvider: compute - file:///home/rbc-pi/watch.1.md
+[Trace 10:53:47.220] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/rbc-pi/watch.1.md
+[Trace 10:53:52.066] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/rbc-pi/.vscode-server/data/User/History/-2da6e377/bEhP.md
+[Trace 10:54:02.971] Server: connection.languages.diagnostics.on: file:///home/rbc-pi/watch.1.md
